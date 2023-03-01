@@ -6,3 +6,6 @@ baseDeDados = [
 ]
 
 print (baseDeDados)
+
+for i in range (len(baseDeDados)):
+    print (baseDeDados[i][4])
