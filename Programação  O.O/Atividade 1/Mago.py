@@ -23,7 +23,7 @@ class Mago:
         print('Haaaaaa, Estouu vuando.')
         
         
-#Intanciação de um objeto da classe Mago
+#Intanciação de um objeto da classe Mago                                                                                                                                                                                                                   
 hp = Mago('Harry Potter', 17, 'Hogwarts')
 gd = Mago('Gandalf', 2000, 'Magia Cinza')
 so = Mago('Sofia', 4, 'escola de Magias')
